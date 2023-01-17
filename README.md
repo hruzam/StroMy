@@ -1,2 +1,2 @@
 # StroMy
-Web DTB - obnova lesu
+#Web na obnovu lesu v CR
