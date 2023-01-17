@@ -3,9 +3,9 @@
 
 > kde lze: '/n'
 > registrovat uzivatele '/n'
-okalizovat odtezene plochy (koordinaty, mapa platforma) '/n'
-_ propojeni s centr. DTB LCR '/n'
-_ ziskat kontakt na zodpovednou osobu (LCR, soukromnik,...) '/n'
-_ ziskat data o vysadbe (co, kde, jak) '/n'
-_ ziskat data o patronovi '/n'
+okalizovat odtezene plochy (koordinaty, mapa platforma)  
+_ propojeni s centr. DTB LCR 
+_ ziskat kontakt na zodpovednou osobu (LCR, soukromnik,...) 
+_ ziskat data o vysadbe (co, kde, jak) 
+_ ziskat data o patronovi 
 
