@@ -1,11 +1,11 @@
 # StroMy
 # Web s DTB na obnovu lesu v CR,
 
-kde lze
-> registrovat uzivatele
-> lokalizovat odtezene plochy (koordinaty, mapa platforma)
-> propojeni s centr. DTB LCR
-> lokalizovat zodpovedneho zestupce (LCR, soukromnik,...)
-> ziskat data o vysadbe {co, kde, jak}
-> ziskat data o patronovi
+> kde lze
+_ registrovat uzivatele
+_ lokalizovat odtezene plochy (koordinaty, mapa platforma)
+_ propojeni s centr. DTB LCR
+_ lokalizovat zodpovedneho zestupce (LCR, soukromnik,...)
+_ ziskat data o vysadbe {co, kde, jak}
+_ ziskat data o patronovi
 
