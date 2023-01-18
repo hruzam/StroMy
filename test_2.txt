@@ -1,0 +1,5 @@
+1) Uloz do postranni vetve /  kontrolu provedu treba pomoci git switch 'jmeno vetve' + ls
+2) aktualizace pomoci  cmd 'nano'/F2/, git add, git commit -m 'vzkaz'
+3) Presun s CMD do hlavni pouzil jsem git checkout 'JmenoZdrojoveVetve' -- 'CestaGitSlozkyNaHDD'
+ //ve formatu ~/www/...
+
