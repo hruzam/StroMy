@@ -2,4 +2,6 @@
 2) aktualizace pomoci  cmd 'nano'/F2/, git add, git commit -m 'vzkaz'
 3) Presun s CMD do hlavni pouzil jsem git checkout 'JmenoZdrojoveVetve' -- 'CestaGitSlozkyNaHDD'
  //ve formatu ~/www/...
+4) povedlo se mi nejakym zazrakem konecne uploadovat z korene na main. Zopakuji postup, panc to potrebuji mit pod kontrolou
+
 
